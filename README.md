@@ -25,7 +25,7 @@ YOLOv8 (You Only Look Once version 8) is an advanced object detection model that
 
 Watch the video below to see the model in action:
 
-![YOLOv8 Person Detection Demo](person_counting_video/output_video.mp4)
+![YOLOv8 Person Detection Demo](person_counting_video/person_counter.gif)
 
 **Usage**
 
