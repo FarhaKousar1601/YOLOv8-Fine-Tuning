@@ -31,8 +31,8 @@ Watch the video below to see the model in action:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yolov8-person-detection.git
-   cd yolov8-person-detection
+   git clone https://github.com/mirHasnain/YOLOv8-Fine-Tuning.git
+   cd YOLOv8-Fine-Tuning
    ```
 
 **Contributors**
